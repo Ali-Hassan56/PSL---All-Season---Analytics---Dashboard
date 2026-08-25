@@ -1,0 +1,2 @@
+# PSL - All Season - Analytics - Dashboard
+An interactive PSL Analytics Dashboard built with Power BI to analyze team and player performance across PSL seasons. It includes key insights such as top run scorers, top wicket-takers, player of the tournament, team rankings, and season-wise performance. The dashboard uses data visualization, Power Query, DAX, slicers, and interactive visuals to provide a comprehensive view of PSL statistics.
